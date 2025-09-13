@@ -1,5 +1,8 @@
 ## 👋 Hi, I'm Rick  
 
+<p align="center">
+  <img src="Banner.png" width="800">
+</p>
 <!--
 **RickCastroDev/RickCastroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
